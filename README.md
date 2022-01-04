@@ -38,4 +38,4 @@ created by:
 ## *ps:*
  *the app was under maintenance due to security issue*
  
- *This code is NOT a clean code, so please consider if you want to do same project like this one, and be careful of "traps" ehe*
+ *This code is NOT a clean code
