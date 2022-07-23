@@ -1,7 +1,7 @@
 # TugasAkhirAI
 ## FaceDetectorApp
 
-This project was meant for out final Exam for Artificial Intelligence
+This project was meant for our final Exam for Artificial Intelligence
 This application is meant to detect face if the person wearing a mask or not
 
 ## requirement
