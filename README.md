@@ -27,7 +27,7 @@ This application is meant to detect face if the person wearing a mask or not
 > [MTCNN](https://github.com/ipazc/mtcnn)
 
 
-created by:
+model and engine is created by:
 > *Arcriles Thungriallu*
 > 
 
